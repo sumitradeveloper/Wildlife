@@ -1,0 +1,67 @@
+
+.container-fluid {
+    height:auto;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#second {
+    background-color: #16306b;
+}
+
+#five .row{
+    background-color: #16306b;
+    padding: 8%;
+}
+
+.form-control {
+    margin-right: 5%;
+}
+
+h2 {
+    margin-top: 52px;
+    margin-bottom: 50px;
+    color: #ac0a0a;
+    font-weight: bold;
+    text-align: center;
+}
+
+h5 {
+    color: #000000;
+}
+
+.navbar {
+    font-weight: 600;
+}
+
+.navbar-brand {
+    width: 15%;
+    height: 27%;
+}
+
+a .nav-link {
+    color: #000000;
+    font-weight: 600;
+}
+
+.card {
+    margin: 20px;
+    border: 1px solid;
+}
+
+.card-img-top #macaw-img {
+    height: 272%;
+}
+
+.btn:hover{
+    background-color: #1d2ae2;
+    color: #ffffff;    
+}
+
+.text-center {
+    font-weight:600;
+}
+
+
+
